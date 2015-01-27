@@ -1,7 +1,9 @@
 # Node + Backbone
 
 [Airbnb inspired](http://nerds.airbnb.com/weve-launched-our-first-nodejs-app-to-product/)
-This seems like a really good approach to have a consistent codebase. https://github.com/rendrjs
+
+> This seems like a really good approach to have a consistent codebase.
+> https://github.com/rendrjs
 
 [Airbnb Javascript Styleguide](https://github.com/airbnb/javascript)
 
